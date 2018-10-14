@@ -1,0 +1,27 @@
+c:\users\leejonghyuk\documents\visual studio 2010\Projects\ImagePattern\ImagePattern\bin\Debug\ImagePattern.exe
+c:\users\leejonghyuk\documents\visual studio 2010\Projects\ImagePattern\ImagePattern\bin\Debug\ImagePattern.pdb
+c:\users\leejonghyuk\documents\visual studio 2010\Projects\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.Properties.Resources.resources
+c:\users\leejonghyuk\documents\visual studio 2010\Projects\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.csproj.GenerateResource.Cache
+c:\users\leejonghyuk\documents\visual studio 2010\Projects\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.exe
+c:\users\leejonghyuk\documents\visual studio 2010\Projects\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.pdb
+C:\Users\LeeJongHyuk\documents\visual studio 2010\Projects\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.csprojResolveAssemblyReference.cache
+C:\Users\LeeJongHyuk\Documents\Visual Studio 2010\Projects\ImagePattern\ImagePattern\bin\Debug\OpenCvSharp.dll
+C:\Users\LeeJongHyuk\Documents\Visual Studio 2010\Projects\ImagePattern\ImagePattern\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\LeeJongHyuk\Documents\Visual Studio 2010\Projects\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.MainForm.resources
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.exe
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.pdb
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\bin\Debug\ImagePattern.exe
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\bin\Debug\ImagePattern.pdb
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.MainForm.resources
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.Properties.Resources.resources
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\LeeJongHyuk\Desktop\오리\ImagePattern\ImagePattern\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.exe
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.pdb
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\bin\Debug\ImagePattern.exe
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\bin\Debug\ImagePattern.pdb
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.csprojResolveAssemblyReference.cache
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.MainForm.resources
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.Properties.Resources.resources
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Debug\ImagePattern.csproj.GenerateResource.Cache

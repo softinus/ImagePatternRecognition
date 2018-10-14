@@ -1,0 +1,3 @@
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Release\ImagePattern.MainForm.resources
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Release\ImagePattern.Properties.Resources.resources
+C:\Users\ChoiJunHyeok\Documents\네이트온 받은 파일\ImagePattern\ImagePattern\obj\x86\Release\ImagePattern.csproj.GenerateResource.Cache
